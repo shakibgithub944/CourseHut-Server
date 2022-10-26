@@ -20,6 +20,11 @@ app.get('/Course/:id', (req, res) => {
     const course = courses.find(course => course.id == id);
     res.send(course);
 })
+app.get('/Course/:id/CheckOut', (req, res) => {
+    const id = req.params.id;
+    const course = courses.find(course => course.id == id);
+    res.send(course);
+})
 
 
 
