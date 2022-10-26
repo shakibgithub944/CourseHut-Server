@@ -26,7 +26,6 @@ app.get('/Course/:id/CheckOut', (req, res) => {
     res.send(course);
 })
 
-
 app.listen(port, () => {
     console.log('server running on port ', port);
 })
