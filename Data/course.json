@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "title": "SEO",
+        "title": "Kotlin",
         "price": 109.95,
-        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "description": "Kotlin is a modern, general-purpose programming language developed by JetBrains. Its full compatibility with Java and concise syntax makes it an appealing language for web development, Android development, and more.",
         "category": "men's clothing",
         "image": "https://www.abdulrimaaz.com/wp-content/uploads/2021/05/SEO1.png",
         "rating": {
@@ -15,7 +15,7 @@
         "id": 2,
         "title": "Python",
         "price": 22.3,
-        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "description": "Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because Python code is concise and easy to read.C++ is a very popular language for performance-critical applications that rely on speed and efficient memory management. It’s used in a wide range of industries including software and game development, VR, robotics, and scientific computing.",
         "category": "men's clothing",
         "image": "https://qph.fs.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc",
         "rating": {
@@ -27,7 +27,7 @@
         "id": 3,
         "title": "AI",
         "price": 55.99,
-        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "description": "Artificial intelligence (AI) uses computers and other machines to accomplish complicated tasks typically associated with the human mind — like problem-solving and decision-making.",
         "category": "men's clothing",
         "image": "https://www.themandarin.com.au/wp-content/uploads/2022/05/artifical-intelligence-AI.jpg?w=796",
         "rating": {
@@ -39,7 +39,7 @@
         "id": 4,
         "title": "Machine learning",
         "price": 15.99,
-        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "description": "To become an expert in machine learning, you first need a strong foundation in four learning areas : coding, math, ML theory, and how to build your own ML project from start to finish.",
         "category": "men's clothing",
         "image": "https://eminence.ch/wp-content/uploads/2021/07/machine-learning.png",
         "rating": {
@@ -49,9 +49,9 @@
     },
     {
         "id": 5,
-        "title": "Blockchain",
+        "title": "C++",
         "price": 695,
-        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+        "description": "C++ is a very popular language for performance-critical applications that rely on speed and efficient memory management. It’s used in a wide range of industries including software and game development, VR, robotics, and scientific computing.",
         "category": "jewelery",
         "image": "https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2021/08/04022409/WHAT-IS-BLOCKCHAIN.png",
         "rating": {
@@ -63,7 +63,7 @@
         "id": 6,
         "title": "Data science",
         "price": 168,
-        "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+        "description": "Data science courses address methods for managing and analyzing Large datasets. Start your career as a data scientist by studying data mining, big data applications, and data product development",
         "category": "jewelery",
         "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Data-Science-vs.-Big-Data-vs.jpg",
         "rating": {
